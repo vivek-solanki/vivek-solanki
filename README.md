@@ -1,5 +1,9 @@
+![MasterHead](https://thumbs.gfycat.com/AdorableImportantCaecilian-max-1mb.gif)
+
 <h1 align="center">Hi 👋, I'm Vivek Solanki</h1>
 <h3 align="center">A passionate frontend developer from Khategaon India.</h3>
+
+<img align="right" alt="code" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🔭 I’m currently working on **HR-Portal**
 
